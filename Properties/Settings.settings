@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PortalEnumerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PortalEnumerator_localhost1_Webs" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/_vti_bin/Webs.asmx</Value>
+    </Setting>
+    <Setting Name="PortalEnumerator_SiteData_SiteData" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/_vti_bin/SiteData.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

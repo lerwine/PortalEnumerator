@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Webs xmlns="http://schemas.microsoft.com/sharepoint/soap/">
+  <Web Title="Company News" Url="http://localhost/CompanyNews" />
+  <Web Title="Divisions" Url="http://localhost/Divisions" />
+  <Web Title="External News" Url="http://localhost/ExternalNews" />
+  <Web Title="Human Resources" Url="http://localhost/HumanResources" />
+  <Web Title="Locations" Url="http://localhost/Locations" />
+  <Web Title="Marketing" Url="http://localhost/Marketing" />
+  <Web Title="News" Url="http://localhost/News" />
+  <Web Title="Operations" Url="http://localhost/Operations" />
+  <Web Title="Press Announcements" Url="http://localhost/PressAnnouncements" />
+  <Web Title="Projects" Url="http://localhost/Projects" />
+  <Web Title="Resources" Url="http://localhost/Resources" />
+  <Web Title="Sales" Url="http://localhost/Sales" />
+  <Web Title="Sites" Url="http://localhost/SiteDirectory" />
+  <Web Title="Strategy" Url="http://localhost/Strategy" />
+  <Web Title="Support" Url="http://localhost/Support" />
+  <Web Title="Targeted links on My Site" Url="http://localhost/MySite" />
+  <Web Title="Topics" Url="http://localhost/Topics" />
+</Webs>
